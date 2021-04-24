@@ -4,12 +4,13 @@
  My name is [Joseph Jo. Borras](https://www.linkedin.com/in/joborras/ "My LinkedIn profile."). I live in Oak Park ("the Frank Lloyd Wright" neighborhood), IL with my kids, my cat, my wife, and her dog.
 
 ### WHAT IS MY BACKGROUND?
-  
-  I've spent more than twenty years in and around motorsports, mostly on the EFI and tuning side but more recently on the business side. When I got married I made the move into the dealership world, seeing that as a more stable option with less travel. Now, I'm looking for something more.
+  <img src=https://www.theautochannel.com/news/2010/06/22/483719.2-lg.jpg>
+
+  I've spent more than twenty years in and around motorsports, mostly on the EFI and tuning side but more recently on the business side. When I got married I made the move into the dealership world, seeing that as a more stable option with less travel. Now, I'm looking for something more "adult".
 
 ### WHAT ARE YOUR CAREER GOALS?
 
-  I'm still trying to figure that out, but I love sales and learning about different ways to look at and solve business problems, so I'm hoping I'll be able to bring those interests into the emerging FinTech market(s) in a way that makes sense and advances my career.
+  I'm still trying to figure that out, but I love sales and learning about different ways to look at and solve business problems, so I'm hoping I'll be able to bring those interests into the emerging FinTech market(s) in a way that gives me a unique point of view and, ultimately, advances my career.
 
 ### WHY DID YOU CHOOSE FINTECH AS A CAREER PATH?
 
