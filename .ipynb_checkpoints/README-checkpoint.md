@@ -1,10 +1,10 @@
-# class3-repo | Exercise 1
+# class3-repo
 ### WHO AM I?
 
- My name is [Joseph Jo. Borras](https://www.linkedin.com/in/joborras/ "My LinkedIn profile."). I live in Oak Park ("the Frank Lloyd Wright" neighborhood), IL with my kids, my cat, my wife, and her dog.
+  My name is Joseph (Jo.) Borras. I live in Oak Park, IL with my kids, my cat, my wife, and her dog.
 
 ### WHAT IS MY BACKGROUND?
-  
+
   I've spent more than twenty years in and around motorsports, mostly on the EFI and tuning side but more recently on the business side. When I got married I made the move into the dealership world, seeing that as a more stable option with less travel. Now, I'm looking for something more.
 
 ### WHAT ARE YOUR CAREER GOALS?
@@ -13,4 +13,4 @@
 
 ### WHY DID YOU CHOOSE FINTECH AS A CAREER PATH?
 
-  I'm old, so I had an "analog" childhood and witnessed the birth of the internet and the proliferation of personal and mobile computing firsthand. The emergence of blockchain has a very similar feel to me. It feels like 1997/98 internet. Post-Compuserve/AOL but still pre-Google. I feel like we're in the "Netscape" phase of a blockchain revolution, and I want to get on this train *now*.
+  I'm old, so I had an "analog" childhood and witnessed the birth of the internet and the proliferation of personal and mobile computing firsthand. The emergence of blockchain has a very similar feel to me. It feels like 1997/98 internet. Post Compuserve/AOL but still pre-Google. I feel like we're in the "Netscape" phase, and I want to get on this train **NOW**.
