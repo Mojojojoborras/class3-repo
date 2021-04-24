@@ -1,7 +1,7 @@
 # class3-repo | Exercise 1
 ### WHO AM I?
 
- My name is [Joseph Jo. Borras](https://www.linkedin.com/in/joborras/ "My LinkedIn profile."). I live in Oak Park ("the Frank Lloyd Wright" neighborhood), IL with my kids, my cat, my wife, and her dog.
+ My name is [Joseph Jo. Borras](https://www.linkedin.com/in/joborras/ "My LinkedIn profile."). I live in Oak Park, IL ("the Frank Lloyd Wright" neighborhood) with my kids, **my** cat, my wife, and **her** dog.
 
 ### WHAT IS MY BACKGROUND?
   <img src=https://www.theautochannel.com/news/2010/06/22/483719.2-lg.jpg>
