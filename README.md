@@ -15,3 +15,7 @@ Welcome to my repository for the `NU FinTech Bootcamp`!
 ```python
 print("Welcome to FinTech!")
 ```
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/joborras/)
