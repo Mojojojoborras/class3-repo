@@ -13,5 +13,6 @@
   I'm still trying to figure that out, but I love sales and learning about different ways to look at and solve business problems, so I'm hoping I'll be able to bring those interests into the emerging FinTech market(s) in a way that gives me a unique point of view and, ultimately, advances my career.
 
 ### WHY DID YOU CHOOSE FINTECH AS A CAREER PATH?
-
+  <img src="https://obriencg.com/wp-content/uploads/2016/07/missed-the-boat.jpg">
+  
   I'm old, so I had an "analog" childhood and witnessed the birth of the internet and the proliferation of personal and mobile computing firsthand. The emergence of blockchain has a very similar feel to me. It feels like 1997/98 internet. Post-Compuserve/AOL but still pre-Google. I feel like we're in the "Netscape" phase of a blockchain revolution, and I want to get on this train *now*.
