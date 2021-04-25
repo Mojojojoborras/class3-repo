@@ -19,7 +19,3 @@ print("Welcome to FinTech!")
 ---
 
 [LinkedIn](https://www.linkedin.com/in/joborras/)
-
----
-
-![Cody Jinks' Guitar](https://www.musicinminnesota.com/wp-content/uploads/2018/09/DSC_7838.jpg)
