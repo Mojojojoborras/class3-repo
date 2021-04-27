@@ -18,10 +18,14 @@
 ### Thank My Farmer App
   <img src="https://theblockchainland.com/wp-content/uploads/2020/01/Thank-My-Farmer-App-BlockchainLand-1024x525.png">
 
-  Behind-the-scenes, the real product here seems to be the Farmer Connect platform, which encourages everyone along the coffe supply chain-- from farmers to roasters to shippers to distributors-- to "buy in" to using the company's standardized data format.  The end result is a large, industry-wide "phishing operation" that's couched as an efficiency and marketing play, offering farmers and distributors a way to justify higher consumer prices while giving companies like Sucafina and Itochu (the two multinational financial backers of Farmer Connect) a unique insight into the coffee industry that other firms may not be able to access.
-  
+  Behind-the-scenes, the real product here seems to be the Farmer Connect platform, which encourages everyone along the coffe supply chain-- from farmers to roasters to shippers to distributors-- to "buy in" to using the company's standardized data format.
+
+  &nbsp;  
   ### Farmer Connect Data Platform
   <img src="https://static.wixstatic.com/media/81c87c_2cc86a54ac2041edaeff82d6959dee4b~mv2.png">
+
+  The end result is a large, industry-wide "phishing operation" that's couched as an efficiency and marketing play, offering farmers and distributors a way to justify higher consumer prices while giving companies like Sucafina and Itochu (the two multinational financial backers of Farmer Connect) a unique insight into the coffee industry that other firms may not be able to access.
+
   Sucafina and Itochu could, then, use that data to fine-tune their positions within the coffee market or sell the data to analysts and investors. It's a bit like *Trading Places* [[film](https://en.wikipedia.org/wiki/Trading_Places)], but with coffee instead of orange juice.
 
 &nbsp;
