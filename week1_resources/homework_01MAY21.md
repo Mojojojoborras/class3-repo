@@ -24,7 +24,7 @@
   
   ### Farmer Connect Data Platform
 
-  Sucafina and Itochu could, then, use that data to fine-tune their positions within the coffee market or sell the data to analysts and investors.
+  Sucafina and Itochu could, then, use that data to fine-tune their positions within the coffee market or sell the data to analysts and investors. It's a bit like *Trading Places* [[film](https://en.wikipedia.org/wiki/Trading_Places)], but with coffee instead of orange juice.
 
 &nbsp;
 ## Landscape
