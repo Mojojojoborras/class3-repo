@@ -12,7 +12,7 @@
 
   More than 500 billion cups of coffee are consumed each year, [with some sources citing surveys that indicate two-thirds of consumers aged 19-24 would prefer to buy coffee that is sustainably grown and responsibly sourced](https://newsroom.ibm.com/2020-01-06-Farmer-Connect-Uses-IBM-Blockchain-to-Bridge-the-Gap-Between-Consumers-and-Smallholder-Coffee-Farmers), even if that means paying a premium price.  As such, the ability to allow consumers to not just identify, but *verify* that their coffee product is sustainably grown and responsibly sourced represents an exploitable market advantage.
 
-  [Farmer Connect lists two products](https://www.farmerconnect.com/products). The first is Farmer ID<sup>TM</sup>, a verification and trading platform for farmers, while the second is Thank My Farmer<sup>TM</sup>, a consumer-facing smartphone app co-developed with IBM that enables consumers to pull information directly from a proprietary blockchain and verify that the product they're considering can support its "organic", "fair trade", or other sourcing claims.
+  [Farmer Connect lists two products](https://www.farmerconnect.com/products). The first is Farmer ID<sup>TM</sup>, a verification and trading platform for farmers, while the second is Thank My Farmer<sup>TM</sup>, a consumer-facing smartphone app co-developed with IBM that enables consumers to pull information directly from [IBM's Food Trust blockchain](https://www.ibm.com/blockchain/solutions/food-trust) and verify that the product they're considering can support its "organic", "fair trade", or other sourcing claims.
 
 &nbsp;
 ### Thank My Farmer App
@@ -26,16 +26,20 @@
 
   The end result is a large, industry-wide "phishing operation" that's couched as an efficiency and marketing play, offering farmers and distributors a way to justify higher consumer prices while giving companies like Sucafina and Itochu (the two multinational financial backers of Farmer Connect) a unique insight into the coffee industry that other firms may not be able to access.
 
-  Sucafina and Itochu could, then, use that data to fine-tune their positions within the coffee market or sell the data to analysts and investors. It's a bit like *Trading Places* [[film](https://en.wikipedia.org/wiki/Trading_Places)], but with coffee instead of orange juice.
+  Sucafina and Itochu could then use that data to fine-tune their positions within the coffee market or sell the data to analysts and investors. It's a bit like *Trading Places* [[film](https://en.wikipedia.org/wiki/Trading_Places)] in this scenario, but with coffee instead of orange juice.
 
 &nbsp;
 ## Landscape
 
-* What domain of the financial industry is the company in?
+  Farmer Connect seems to occupy two areas of the FinTech landscape:  blockchain and data acquisition. The blockchain example is relatively straightforward. As IBM put it:
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+  > [The blockchain] creates a permanent digitized chain of transactions that cannot be altered. Each network participant has an exact copy of the data, and additions to the blockchain are shared throughout the network based on each participant's level of permission. Farmers, wholesalers, traders and retailers can interact more efficiently using comprehensive, near real-time access to this data, and consumers can have new insights about the origins of the products they consume.
 
-* What are the other major companies in this domain?
+This kind of application of blockchain technology is novel, as is the implementation of a standardized data structure across different industries and different continents, between companies with dramatically different levels of technological sophistication. In this case, an enterprise-level shipping company and a small, rural farmer are interacting with the same dataset using a large IT network on one end and a single mobile device on the other.
+
+The emergence of high-speed data and the proliferation of smart mobile devices across "developing" markets in recent years has only just made something like Farmer Connect's platform viable.
+
+As stated before, Farmer Connect uses IBM's Food Trust blockchain to power its consumer-facing mobile app. Other companies like [Albertson's](https://www.forbes.com/sites/rachelwolfson/2019/04/11/albertsons-joins-ibm-food-trust-blockchain-network-to-track-romaine-lettuce-from-farm-to-store/) and [Raw Seafoods](https://www.intrafish.com/marketplace/raw-seafoods-exec-blockchain-is-new-weapon-in-fight-to-end-fish-fraud/2-1-692931) have also begun to leverage the service, but Farmer Connect seems to be the only beverage producer, so far, to be using blockchain in this way.
 
 
 ## Results
