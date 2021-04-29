@@ -44,7 +44,7 @@
 &nbsp;
 ## Results
 
-  Farmer Connect is still in the early stages of its rollout, being less than 60 days out from its series A round as this is written, so the results of its efforts are yet to be realized.  When asked directly how the company might measure success, its founder, Dave Behrends, answered as follows:
+  Farmer Connect is still in the early stages of its rollout, being less than 60 days out from its series A round as this is written, so the results of its efforts are yet to be realized.  When asked directly how the company might measure success, its CEO/founder, Dave Behrends, answered as follows (via LinkedIn chat):
   
   > It is a bit chicken and egg. We have to prove to brands that openly sharing traceability and transparency data will yield stronger consumer engagement and even a willingness to pay a higher price. This in turn gives them courage to scale ... on the flip side you need farmers and other actors in the supply chain to drive growth but they will only join if there is a buyer and belief that there is some benefit in doing so. So, number of farmers and defined benefits received from being on the platform is a medium term metric.
 
