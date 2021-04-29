@@ -3,14 +3,14 @@
 ## Overview and Origin
 <img src="https://assets.corteva.com/is/image/Corteva/IMG-FC-HRO_01_Hero-L1-1440x400px_3.6_1?$herol1_desktop$">
 
-  Farmer Connect was foundin in 2019 by David Behrends, who saw blockchain technology as a means to allow coffee drinkers to trace the source of their coffee from the store, to the distributor, and on down to the farmer who actually grew and harvested the beans. What's more, because the blockchain is transparent and immutable, consumers can be sure that the premium they paid for a product carrying an "organic" or "fair trade" actually went towards the cause they support.
+  Farmer Connect was founded in 2019 by [David Behrends](https://www.linkedin.com/in/dave-behrends-95a0439/), who saw the blockchain as a means to allow coffee drinkers to trace the source of their coffee from the store, to the distributor, and on down to the farmer who actually grew and harvested the beans. What's more, because the blockchain is transparent and immutable, consumers can be sure that the premium they paid for a product carrying an "organic" or "fair trade" actually went towards the cause they support.
 
   [Farmer Connect raised &euro;	7.5M from two investors in a series A round in March of this year (2021)](https://www.crunchbase.com/organization/farmer-connect/company_financials). The initial investors were Sucafina, [a multinational coffee vendor based in Switzerland](https://sucafina.com/), and the Itochu Corporation, [a $44B Japanese import/export firm founded in 1949](https://www.itochu.co.jp/en/index.html).
 
 &nbsp; 
 ## Business Activities
 
-  More than 500 billion cups of coffee are consumed each year, [with some sources citing surveys that indicate two-thirds of consumers aged 19-24 would prefer to buy coffee that is sustainably grown and responsibly sourced](https://newsroom.ibm.com/2020-01-06-Farmer-Connect-Uses-IBM-Blockchain-to-Bridge-the-Gap-Between-Consumers-and-Smallholder-Coffee-Farmers), even if that means paying a premium price.  As such, the ability to allow consumers to not just identify, but *verify* that their coffee product is sustainably grown and responsibly sourced represents an exploitable market advantage.
+  More than 500 billion (!) cups of coffee are consumed each year, [with some sources citing surveys that indicate two-thirds of consumers aged 19-24 would prefer to buy coffee that is sustainably grown and responsibly sourced](https://newsroom.ibm.com/2020-01-06-Farmer-Connect-Uses-IBM-Blockchain-to-Bridge-the-Gap-Between-Consumers-and-Smallholder-Coffee-Farmers), even if that means paying a premium price.  As such, the ability to allow consumers to not just identify, but *verify* that their coffee product is sustainably grown and responsibly sourced represents an exploitable market advantage.
 
   [Farmer Connect lists two products](https://www.farmerconnect.com/products). The first is Farmer ID<sup>TM</sup>, a verification and trading platform for farmers, while the second is Thank My Farmer<sup>TM</sup>, a consumer-facing smartphone app co-developed with IBM that enables consumers to pull information directly from [IBM's Food Trust blockchain](https://www.ibm.com/blockchain/solutions/food-trust) and verify that the product they're considering can support its "organic", "fair trade", or other sourcing claims.
 
@@ -57,3 +57,8 @@
   A list of other potential features that could complement the Thank My Farmer<sup>TM</sup> app might include the addition of a microloan feature to support causes local to the farmer, though you'd want to tread lightly here, to avoid endangering Farmer Connect's relationships with other parties contributing to the platform.
 
   I would recommend a crypto-based token system here, wherein a happy consumer or end-user could "tip" the farmer some form of stablecoin, which wouldn't be exchangeable for cash but which *could* be used by retailers and distributors to subsidize the cost of shipping and processing the farmer's goods, thereby giving said farmer a competetive advantage over a similar farmer whose products don't generate "tip" support.  Because of the transparent nature of the blockchain, those tips could lead to more bids for a popular farmer's product as well, which would enable them to earn more for their crop.
+
+&nbsp;
+&nbsp;
+
+**Source Links included throughout the case study.**
