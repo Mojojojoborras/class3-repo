@@ -35,28 +35,25 @@
 
   > [The blockchain] creates a permanent digitized chain of transactions that cannot be altered. Each network participant has an exact copy of the data, and additions to the blockchain are shared throughout the network based on each participant's level of permission. Farmers, wholesalers, traders and retailers can interact more efficiently using comprehensive, near real-time access to this data, and consumers can have new insights about the origins of the products they consume.
 
-This kind of application of blockchain technology is novel, as is the implementation of a standardized data structure across different industries and different continents, between companies with dramatically different levels of technological sophistication. In this case, an enterprise-level shipping company and a small, rural farmer are interacting with the same dataset using a large IT network on one end and a single mobile device on the other.
+  This kind of application of blockchain technology is novel, as is the implementation of a standardized data structure across different industries and different continents, between companies with dramatically different levels of technological sophistication. In this case, an enterprise-level shipping company and a small, rural farmer are interacting with the same dataset using a large IT network on one end and a single mobile device on the other.
 
-The emergence of high-speed data and the proliferation of smart mobile devices across "developing" markets in recent years has only just made something like Farmer Connect's platform viable.
+  The emergence of high-speed data and the proliferation of smart mobile devices across "developing" markets in recent years has only just made something like Farmer Connect's platform viable.
 
-As stated before, Farmer Connect uses IBM's Food Trust blockchain to power its consumer-facing mobile app. Other companies like [Albertson's](https://www.forbes.com/sites/rachelwolfson/2019/04/11/albertsons-joins-ibm-food-trust-blockchain-network-to-track-romaine-lettuce-from-farm-to-store/) and [Raw Seafoods](https://www.intrafish.com/marketplace/raw-seafoods-exec-blockchain-is-new-weapon-in-fight-to-end-fish-fraud/2-1-692931) have also begun to leverage the service, but Farmer Connect seems to be the only beverage producer, so far, to be using blockchain in this way.
+  As stated before, Farmer Connect uses IBM's Food Trust blockchain to power its consumer-facing mobile app. Other companies like [Albertson's](https://www.forbes.com/sites/rachelwolfson/2019/04/11/albertsons-joins-ibm-food-trust-blockchain-network-to-track-romaine-lettuce-from-farm-to-store/) and [Raw Seafoods](https://www.intrafish.com/marketplace/raw-seafoods-exec-blockchain-is-new-weapon-in-fight-to-end-fish-fraud/2-1-692931) have also begun to leverage the service, but Farmer Connect seems to be the only beverage producer, so far, to be using blockchain in this way.
 
-
+&nbsp;
 ## Results
 
-* What has been the business impact of this company so far?
+  Farmer Connect is still in the early stages of its rollout, being less than 60 days out from its series A round as this is written, so the results of its efforts are yet to be realized.  When asked directly how the company might measure success, its founder, Dave Behrends, answered as follows:
+  
+  > It is a bit chicken and egg. We have to prove to brands that openly sharing traceability and transparency data will yield stronger consumer engagement and even a willingness to pay a higher price. This in turn gives them courage to scale ... on the flip side you need farmers and other actors in the supply chain to drive growth but they will only join if there is a buyer and belief that there is some benefit in doing so. So, number of farmers and defined benefits received from being on the platform is a medium term metric.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-
-
+&nbsp;
 ## Recommendations
+<img src="https://content.fortune.com/wp-content/uploads/2015/12/42-36472427.jpg">
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+  It's still early days at Farmer Connect, so it's hard to see if they have the "secret sauce" for success here.  From a consumer side, I'd like the Thank My Farmer<sup>TM</sup> app to deliver more information about the farmers, and enable me to explore other ways to support and help the community. If coffee that I like and enjoy comes from a community that also produces high-quality Alpaca goods, for example, the ability purchase those products directly through the app (though not neccessarily directly from the farmer) would have some appeal.
+  
+  A list of other potential features that could complement the Thank My Farmer<sup>TM</sup> app might include the addition of a microloan feature to support causes local to the farmer, though you'd want to tread lightly here, to avoid endangering Farmer Connect's relationships with other parties contributing to the platform.
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+  I would recommend a crypto-based token system here, wherein a happy consumer or end-user could "tip" the farmer some form of stablecoin, which wouldn't be exchangeable for cash but which *could* be used by retailers and distributors to subsidize the cost of shipping and processing the farmer's goods, thereby giving said farmer a competetive advantage over a similar farmer whose products don't generate "tip" support.  Because of the transparent nature of the blockchain, those tips could lead to more bids for a popular farmer's product as well, which would enable them to earn more for their crop.
