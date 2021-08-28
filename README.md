@@ -1,21 +1,3 @@
-# Fintech Repository with H1 Header
-
-## Fintech Repository with H2 Header
-
-### Fintech Repository with H3 Header
-
-Welcome to my repository for the `NU FinTech Bootcamp`!
-
-*This text will be in italics.*
-
----
-
-**This text will be in bold.**
-
-```python
-print("Welcome to FinTech!")
-```
-
----
-
-[LinkedIn](https://www.linkedin.com/in/joborras/)
+### Northwestern University | FinTech Bootcamp
+<hr />
+<p align="justify">This is a set of working folders, class notes, and homework for my Northwestern University FinTech Bootcamp. I completed the course as "a COVID degree" while navigating lockdowns and childcare, and finally have some current paperwork proving that I know my way around a terminal.
