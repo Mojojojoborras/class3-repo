@@ -1,7 +1,7 @@
 # FLEETCOIN - AN IMMUTABLE LOGBOOK TO PROTECT YOUR FLEET
 ---
 
-FLEETCOIN is a blockchain based product that puts the true, complete history of your vehicle on the blockchain, creating a certified, unchangeable record of purchase, operation, maintenance, and repair to keep your business secure.
+FLEETCOIN is a blockchain based product that puts the true, complete history of your vehicle on the blockchain, creating a certified, unchangeable record of purchase, operation, maintenance, and repair to keep your business secure. This creates an unbroken chain of custody for liability, accepted and handed off like a baton at every step.
 
 This repository contains implementation of MVP.  
 
