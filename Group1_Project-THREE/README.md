@@ -28,5 +28,6 @@ Following are the files:
 
 Open cars.ipynb in jupyter notebook and execute the cells. User interaction is in the last cell. 
 
+<embed src="https://github.com/Mojojojoborras/class3-repo/blob/main/Group1_Project-THREE/FLEETCOIN_FINAL-FORREAL_09OCT.pdf" type="application/pdf">
 
 <hr style="border:2px solid blue"> </hr>
